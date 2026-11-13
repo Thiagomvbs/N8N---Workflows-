@@ -1,39 +1,32 @@
-# n8n para Devs — Workflows Inteligentes
-## Conteúdos estudados
+# N8N — Workflows Inteligentes
 
-### 01. Fundamentos e integrações
-- Criação de workflows e configuração de triggers.
-- Integrações com Gmail e Slack.
-- Autenticação OAuth2 e gerenciamento de credenciais.
-- Diferenças entre n8n Cloud e self-hosting.
+Repositório dedicado ao desenvolvimento de automações com **n8n**, integração de APIs e exploração de soluções com JavaScript e Inteligência Artificial.
 
-### 02. Automações e GitHub
-- Configuração de aplicativos, tokens de acesso e escopos OAuth.
-- Criação de filtros e fluxos condicionais.
-- Automação de revisões de Pull Requests no GitHub.
-- Integração com Slack e usuários dedicados para automações.
+O objetivo é transformar conhecimentos em aplicações práticas, documentando workflows, integrações e soluções desenvolvidas ao longo dos estudos.
 
-### 03. Auditoria e monitoramento
-- Implementação de logs e auditoria em workflows.
-- Utilização de Data Tables para armazenar registros.
-- Uso de expressões e IDs de execução para rastrear processos.
+## Tecnologias
 
-### 04. JavaScript e tratamento de erros
-- Utilização do nó Code para implementar lógicas personalizadas com JavaScript.
-- Manipulação de strings, arrays e objetos JSON.
-- Configuração de retries e tratamento de erros nas execuções.
+- n8n
+- JavaScript
+- REST APIs
+- Webhooks
+- JSON
+- OAuth2
+- GitHub
+- Inteligência Artificial
 
-### 05. Inteligência Artificial
-- Mapeamento e padronização de processos antes da automação.
-- Integração de modelos de IA por meio de APIs e prompts.
-- Estruturação e manipulação de respostas em JSON.
-- Criação de condições baseadas nas respostas da IA.
-- Aplicação de IA na análise e revisão de Pull Requests.
+## Estrutura do repositório
 
-## Tecnologias e conceitos
-
-`n8n` · `JavaScript` · `REST APIs` · `OAuth2` · `JSON` · `GitHub` · `Slack` · `Gmail` · `Inteligência Artificial`
+| Diretório | Descrição |
+|---|---|
+| `estudos/` | Conteúdos e conceitos estudados durante o curso. |
+| `projetos/` | Automações desenvolvidas e documentadas. |
+| `assets/` | Imagens e recursos visuais do repositório. |
 
 ## Objetivo
 
-Consolidar conhecimentos em automação de processos, integração de APIs e desenvolvimento de workflows inteligentes, documentando os aprendizados e projetos desenvolvidos durante os estudos.
+Desenvolver soluções de automação que integrem diferentes serviços, reduzam tarefas manuais e explorem o potencial da inteligência artificial em processos reais.
+
+---
+
+*Repositório em desenvolvimento — novos workflows e projetos serão adicionados conforme a evolução dos estudos.*
